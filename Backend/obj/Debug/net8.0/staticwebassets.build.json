@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "O5PlSNYRnqf3Qt2Gg4wV2ijRYpn076RZYaLDM5eY8Lk=",
+  "Hash": "IFxzloBdLp/26PS1K91m/9mLDrhd/XIzFbyIgbE+Hg8=",
   "Source": "Backend",
   "BasePath": "_content/Backend",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Backend\\wwwroot",
       "Source": "Backend",
-      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\",
       "BasePath": "_content/Backend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\00d38329-74fe-4b2a-9d61-efe92ad5a0e3.png",
+      "Identity": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\00d38329-74fe-4b2a-9d61-efe92ad5a0e3.png",
       "SourceId": "Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\",
       "BasePath": "_content/Backend",
       "RelativePath": "images/00d38329-74fe-4b2a-9d61-efe92ad5a0e3#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\images\\00d38329-74fe-4b2a-9d61-efe92ad5a0e3.png"
     },
     {
-      "Identity": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\0dc6cea2-64aa-4040-8302-1d364da4c656.jpg",
+      "Identity": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\0dc6cea2-64aa-4040-8302-1d364da4c656.jpg",
       "SourceId": "Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\",
       "BasePath": "_content/Backend",
       "RelativePath": "images/0dc6cea2-64aa-4040-8302-1d364da4c656#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\images\\0dc6cea2-64aa-4040-8302-1d364da4c656.jpg"
     },
     {
-      "Identity": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\22b8decd-1ac4-46c9-a22b-e99c271e9602.jpg",
+      "Identity": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\22b8decd-1ac4-46c9-a22b-e99c271e9602.jpg",
       "SourceId": "Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\",
       "BasePath": "_content/Backend",
       "RelativePath": "images/22b8decd-1ac4-46c9-a22b-e99c271e9602#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\images\\22b8decd-1ac4-46c9-a22b-e99c271e9602.jpg"
     },
     {
-      "Identity": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\28eb7906-ed9b-4c26-9ce0-015b7dfb280b.jpg",
+      "Identity": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\28eb7906-ed9b-4c26-9ce0-015b7dfb280b.jpg",
       "SourceId": "Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\",
       "BasePath": "_content/Backend",
       "RelativePath": "images/28eb7906-ed9b-4c26-9ce0-015b7dfb280b#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\images\\28eb7906-ed9b-4c26-9ce0-015b7dfb280b.jpg"
     },
     {
-      "Identity": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\2f5b76c4-dfb0-4319-996a-a0222a2d29a0.jpg",
+      "Identity": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\2f5b76c4-dfb0-4319-996a-a0222a2d29a0.jpg",
       "SourceId": "Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\",
       "BasePath": "_content/Backend",
       "RelativePath": "images/2f5b76c4-dfb0-4319-996a-a0222a2d29a0#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\2f5b76c4-dfb0-4319-996a-a0222a2d29a0.jpg"
     },
     {
-      "Identity": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\3566bfb3-7ab1-40cd-a6ab-98bc1e80eb0b.png",
+      "Identity": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\3566bfb3-7ab1-40cd-a6ab-98bc1e80eb0b.png",
       "SourceId": "Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\",
       "BasePath": "_content/Backend",
       "RelativePath": "images/3566bfb3-7ab1-40cd-a6ab-98bc1e80eb0b#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\images\\3566bfb3-7ab1-40cd-a6ab-98bc1e80eb0b.png"
     },
     {
-      "Identity": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\4a399b18-bc90-4ecb-8c4e-bbb71eb8efca.jpg",
+      "Identity": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\4a399b18-bc90-4ecb-8c4e-bbb71eb8efca.jpg",
       "SourceId": "Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\",
       "BasePath": "_content/Backend",
       "RelativePath": "images/4a399b18-bc90-4ecb-8c4e-bbb71eb8efca#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\images\\4a399b18-bc90-4ecb-8c4e-bbb71eb8efca.jpg"
     },
     {
-      "Identity": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\6c375a11-6338-488a-9a10-b8a37cfb8f09.jpg",
+      "Identity": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\6c375a11-6338-488a-9a10-b8a37cfb8f09.jpg",
       "SourceId": "Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\",
       "BasePath": "_content/Backend",
       "RelativePath": "images/6c375a11-6338-488a-9a10-b8a37cfb8f09#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\images\\6c375a11-6338-488a-9a10-b8a37cfb8f09.jpg"
     },
     {
-      "Identity": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\785dc105-3353-4292-9268-603516c985d2.png",
+      "Identity": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\785dc105-3353-4292-9268-603516c985d2.png",
       "SourceId": "Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\",
       "BasePath": "_content/Backend",
       "RelativePath": "images/785dc105-3353-4292-9268-603516c985d2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\images\\785dc105-3353-4292-9268-603516c985d2.png"
     },
     {
-      "Identity": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\8981d8f6-94d8-45eb-a4f7-c047e0eeb0e1.jpg",
+      "Identity": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\8981d8f6-94d8-45eb-a4f7-c047e0eeb0e1.jpg",
       "SourceId": "Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\",
       "BasePath": "_content/Backend",
       "RelativePath": "images/8981d8f6-94d8-45eb-a4f7-c047e0eeb0e1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\images\\8981d8f6-94d8-45eb-a4f7-c047e0eeb0e1.jpg"
     },
     {
-      "Identity": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\8bc0fe48-8fb8-4ee4-ba09-a836054cd468.png",
+      "Identity": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\8bc0fe48-8fb8-4ee4-ba09-a836054cd468.png",
       "SourceId": "Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\",
       "BasePath": "_content/Backend",
       "RelativePath": "images/8bc0fe48-8fb8-4ee4-ba09-a836054cd468#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\images\\8bc0fe48-8fb8-4ee4-ba09-a836054cd468.png"
     },
     {
-      "Identity": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\8d11e212-de4e-4f93-9ad7-8f48e858d9e0.png",
+      "Identity": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\8d11e212-de4e-4f93-9ad7-8f48e858d9e0.png",
       "SourceId": "Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\",
       "BasePath": "_content/Backend",
       "RelativePath": "images/8d11e212-de4e-4f93-9ad7-8f48e858d9e0#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\images\\8d11e212-de4e-4f93-9ad7-8f48e858d9e0.png"
     },
     {
-      "Identity": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\9b6e1901-c78b-4d19-87e7-4f8bdb4e56b0.png",
+      "Identity": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\9b6e1901-c78b-4d19-87e7-4f8bdb4e56b0.png",
       "SourceId": "Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\",
       "BasePath": "_content/Backend",
       "RelativePath": "images/9b6e1901-c78b-4d19-87e7-4f8bdb4e56b0#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\images\\9b6e1901-c78b-4d19-87e7-4f8bdb4e56b0.png"
     },
     {
-      "Identity": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\a5c9a7ee-1b20-4efd-a202-f73edad55c64.png",
+      "Identity": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\a5c9a7ee-1b20-4efd-a202-f73edad55c64.png",
       "SourceId": "Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\",
       "BasePath": "_content/Backend",
       "RelativePath": "images/a5c9a7ee-1b20-4efd-a202-f73edad55c64#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\images\\a5c9a7ee-1b20-4efd-a202-f73edad55c64.png"
     },
     {
-      "Identity": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\a9870e3e-4d55-4bc4-9c54-33c99c10dfb7.jpg",
+      "Identity": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\a9870e3e-4d55-4bc4-9c54-33c99c10dfb7.jpg",
       "SourceId": "Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\",
       "BasePath": "_content/Backend",
       "RelativePath": "images/a9870e3e-4d55-4bc4-9c54-33c99c10dfb7#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\images\\a9870e3e-4d55-4bc4-9c54-33c99c10dfb7.jpg"
     },
     {
-      "Identity": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\ad4c14dd-58f0-4403-832d-0bbecc0de071.png",
+      "Identity": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\ad4c14dd-58f0-4403-832d-0bbecc0de071.png",
       "SourceId": "Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\",
       "BasePath": "_content/Backend",
       "RelativePath": "images/ad4c14dd-58f0-4403-832d-0bbecc0de071#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ad4c14dd-58f0-4403-832d-0bbecc0de071.png"
     },
     {
-      "Identity": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\b026be9d-19e2-4cb6-b560-b56a9fbea978.jpg",
+      "Identity": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\b026be9d-19e2-4cb6-b560-b56a9fbea978.jpg",
       "SourceId": "Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\",
       "BasePath": "_content/Backend",
       "RelativePath": "images/b026be9d-19e2-4cb6-b560-b56a9fbea978#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\b026be9d-19e2-4cb6-b560-b56a9fbea978.jpg"
     },
     {
-      "Identity": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\b5669848-a05f-4d4d-9696-ff71ca6c1ef6.png",
+      "Identity": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\b5669848-a05f-4d4d-9696-ff71ca6c1ef6.png",
       "SourceId": "Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\",
       "BasePath": "_content/Backend",
       "RelativePath": "images/b5669848-a05f-4d4d-9696-ff71ca6c1ef6#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\images\\b5669848-a05f-4d4d-9696-ff71ca6c1ef6.png"
     },
     {
-      "Identity": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\cec67f3f-117e-4f1a-85d9-ec83f9b54924.jpg",
+      "Identity": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\cec67f3f-117e-4f1a-85d9-ec83f9b54924.jpg",
       "SourceId": "Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\",
       "BasePath": "_content/Backend",
       "RelativePath": "images/cec67f3f-117e-4f1a-85d9-ec83f9b54924#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cec67f3f-117e-4f1a-85d9-ec83f9b54924.jpg"
     },
     {
-      "Identity": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\d9133804-5603-418e-8b51-cb4d2e1f1678.png",
+      "Identity": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\d9133804-5603-418e-8b51-cb4d2e1f1678.png",
       "SourceId": "Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\",
       "BasePath": "_content/Backend",
       "RelativePath": "images/d9133804-5603-418e-8b51-cb4d2e1f1678#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\images\\d9133804-5603-418e-8b51-cb4d2e1f1678.png"
     },
     {
-      "Identity": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\eecdda48-cffb-4a50-b320-30d4abfd1ae1.png",
+      "Identity": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\eecdda48-cffb-4a50-b320-30d4abfd1ae1.png",
       "SourceId": "Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\",
       "BasePath": "_content/Backend",
       "RelativePath": "images/eecdda48-cffb-4a50-b320-30d4abfd1ae1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -461,7 +461,7 @@
   "Endpoints": [
     {
       "Route": "images/00d38329-74fe-4b2a-9d61-efe92ad5a0e3.png",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\00d38329-74fe-4b2a-9d61-efe92ad5a0e3.png",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\00d38329-74fe-4b2a-9d61-efe92ad5a0e3.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -498,7 +498,7 @@
     },
     {
       "Route": "images/00d38329-74fe-4b2a-9d61-efe92ad5a0e3.sluutm6c1m.png",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\00d38329-74fe-4b2a-9d61-efe92ad5a0e3.png",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\00d38329-74fe-4b2a-9d61-efe92ad5a0e3.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -543,7 +543,7 @@
     },
     {
       "Route": "images/0dc6cea2-64aa-4040-8302-1d364da4c656.d2j0cyu98f.jpg",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\0dc6cea2-64aa-4040-8302-1d364da4c656.jpg",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\0dc6cea2-64aa-4040-8302-1d364da4c656.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -588,7 +588,7 @@
     },
     {
       "Route": "images/0dc6cea2-64aa-4040-8302-1d364da4c656.jpg",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\0dc6cea2-64aa-4040-8302-1d364da4c656.jpg",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\0dc6cea2-64aa-4040-8302-1d364da4c656.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -625,7 +625,7 @@
     },
     {
       "Route": "images/22b8decd-1ac4-46c9-a22b-e99c271e9602.jpg",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\22b8decd-1ac4-46c9-a22b-e99c271e9602.jpg",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\22b8decd-1ac4-46c9-a22b-e99c271e9602.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -662,7 +662,7 @@
     },
     {
       "Route": "images/22b8decd-1ac4-46c9-a22b-e99c271e9602.no82yl2kxn.jpg",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\22b8decd-1ac4-46c9-a22b-e99c271e9602.jpg",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\22b8decd-1ac4-46c9-a22b-e99c271e9602.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -707,7 +707,7 @@
     },
     {
       "Route": "images/28eb7906-ed9b-4c26-9ce0-015b7dfb280b.hmtk3h5zo8.jpg",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\28eb7906-ed9b-4c26-9ce0-015b7dfb280b.jpg",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\28eb7906-ed9b-4c26-9ce0-015b7dfb280b.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -752,7 +752,7 @@
     },
     {
       "Route": "images/28eb7906-ed9b-4c26-9ce0-015b7dfb280b.jpg",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\28eb7906-ed9b-4c26-9ce0-015b7dfb280b.jpg",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\28eb7906-ed9b-4c26-9ce0-015b7dfb280b.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -789,7 +789,7 @@
     },
     {
       "Route": "images/2f5b76c4-dfb0-4319-996a-a0222a2d29a0.hmtk3h5zo8.jpg",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\2f5b76c4-dfb0-4319-996a-a0222a2d29a0.jpg",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\2f5b76c4-dfb0-4319-996a-a0222a2d29a0.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -834,7 +834,7 @@
     },
     {
       "Route": "images/2f5b76c4-dfb0-4319-996a-a0222a2d29a0.jpg",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\2f5b76c4-dfb0-4319-996a-a0222a2d29a0.jpg",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\2f5b76c4-dfb0-4319-996a-a0222a2d29a0.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -871,7 +871,7 @@
     },
     {
       "Route": "images/3566bfb3-7ab1-40cd-a6ab-98bc1e80eb0b.mptc7pt2fo.png",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\3566bfb3-7ab1-40cd-a6ab-98bc1e80eb0b.png",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\3566bfb3-7ab1-40cd-a6ab-98bc1e80eb0b.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -916,7 +916,7 @@
     },
     {
       "Route": "images/3566bfb3-7ab1-40cd-a6ab-98bc1e80eb0b.png",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\3566bfb3-7ab1-40cd-a6ab-98bc1e80eb0b.png",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\3566bfb3-7ab1-40cd-a6ab-98bc1e80eb0b.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -953,7 +953,7 @@
     },
     {
       "Route": "images/4a399b18-bc90-4ecb-8c4e-bbb71eb8efca.2pt5px8gkr.jpg",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\4a399b18-bc90-4ecb-8c4e-bbb71eb8efca.jpg",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\4a399b18-bc90-4ecb-8c4e-bbb71eb8efca.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -998,7 +998,7 @@
     },
     {
       "Route": "images/4a399b18-bc90-4ecb-8c4e-bbb71eb8efca.jpg",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\4a399b18-bc90-4ecb-8c4e-bbb71eb8efca.jpg",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\4a399b18-bc90-4ecb-8c4e-bbb71eb8efca.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1035,7 +1035,7 @@
     },
     {
       "Route": "images/6c375a11-6338-488a-9a10-b8a37cfb8f09.a9o6kfh2sx.jpg",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\6c375a11-6338-488a-9a10-b8a37cfb8f09.jpg",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\6c375a11-6338-488a-9a10-b8a37cfb8f09.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1080,7 +1080,7 @@
     },
     {
       "Route": "images/6c375a11-6338-488a-9a10-b8a37cfb8f09.jpg",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\6c375a11-6338-488a-9a10-b8a37cfb8f09.jpg",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\6c375a11-6338-488a-9a10-b8a37cfb8f09.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1117,7 +1117,7 @@
     },
     {
       "Route": "images/785dc105-3353-4292-9268-603516c985d2.mptc7pt2fo.png",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\785dc105-3353-4292-9268-603516c985d2.png",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\785dc105-3353-4292-9268-603516c985d2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1162,7 +1162,7 @@
     },
     {
       "Route": "images/785dc105-3353-4292-9268-603516c985d2.png",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\785dc105-3353-4292-9268-603516c985d2.png",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\785dc105-3353-4292-9268-603516c985d2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1199,7 +1199,7 @@
     },
     {
       "Route": "images/8981d8f6-94d8-45eb-a4f7-c047e0eeb0e1.0klq7vjdue.jpg",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\8981d8f6-94d8-45eb-a4f7-c047e0eeb0e1.jpg",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\8981d8f6-94d8-45eb-a4f7-c047e0eeb0e1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1244,7 +1244,7 @@
     },
     {
       "Route": "images/8981d8f6-94d8-45eb-a4f7-c047e0eeb0e1.jpg",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\8981d8f6-94d8-45eb-a4f7-c047e0eeb0e1.jpg",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\8981d8f6-94d8-45eb-a4f7-c047e0eeb0e1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1281,7 +1281,7 @@
     },
     {
       "Route": "images/8bc0fe48-8fb8-4ee4-ba09-a836054cd468.mptc7pt2fo.png",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\8bc0fe48-8fb8-4ee4-ba09-a836054cd468.png",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\8bc0fe48-8fb8-4ee4-ba09-a836054cd468.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1326,7 +1326,7 @@
     },
     {
       "Route": "images/8bc0fe48-8fb8-4ee4-ba09-a836054cd468.png",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\8bc0fe48-8fb8-4ee4-ba09-a836054cd468.png",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\8bc0fe48-8fb8-4ee4-ba09-a836054cd468.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1363,7 +1363,7 @@
     },
     {
       "Route": "images/8d11e212-de4e-4f93-9ad7-8f48e858d9e0.mptc7pt2fo.png",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\8d11e212-de4e-4f93-9ad7-8f48e858d9e0.png",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\8d11e212-de4e-4f93-9ad7-8f48e858d9e0.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1408,7 +1408,7 @@
     },
     {
       "Route": "images/8d11e212-de4e-4f93-9ad7-8f48e858d9e0.png",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\8d11e212-de4e-4f93-9ad7-8f48e858d9e0.png",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\8d11e212-de4e-4f93-9ad7-8f48e858d9e0.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1445,7 +1445,7 @@
     },
     {
       "Route": "images/9b6e1901-c78b-4d19-87e7-4f8bdb4e56b0.gh9dom4ea0.png",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\9b6e1901-c78b-4d19-87e7-4f8bdb4e56b0.png",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\9b6e1901-c78b-4d19-87e7-4f8bdb4e56b0.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1490,7 +1490,7 @@
     },
     {
       "Route": "images/9b6e1901-c78b-4d19-87e7-4f8bdb4e56b0.png",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\9b6e1901-c78b-4d19-87e7-4f8bdb4e56b0.png",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\9b6e1901-c78b-4d19-87e7-4f8bdb4e56b0.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1527,7 +1527,7 @@
     },
     {
       "Route": "images/a5c9a7ee-1b20-4efd-a202-f73edad55c64.gh9dom4ea0.png",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\a5c9a7ee-1b20-4efd-a202-f73edad55c64.png",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\a5c9a7ee-1b20-4efd-a202-f73edad55c64.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1572,7 +1572,7 @@
     },
     {
       "Route": "images/a5c9a7ee-1b20-4efd-a202-f73edad55c64.png",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\a5c9a7ee-1b20-4efd-a202-f73edad55c64.png",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\a5c9a7ee-1b20-4efd-a202-f73edad55c64.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1609,7 +1609,7 @@
     },
     {
       "Route": "images/a9870e3e-4d55-4bc4-9c54-33c99c10dfb7.2pt5px8gkr.jpg",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\a9870e3e-4d55-4bc4-9c54-33c99c10dfb7.jpg",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\a9870e3e-4d55-4bc4-9c54-33c99c10dfb7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1654,7 +1654,7 @@
     },
     {
       "Route": "images/a9870e3e-4d55-4bc4-9c54-33c99c10dfb7.jpg",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\a9870e3e-4d55-4bc4-9c54-33c99c10dfb7.jpg",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\a9870e3e-4d55-4bc4-9c54-33c99c10dfb7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1691,7 +1691,7 @@
     },
     {
       "Route": "images/ad4c14dd-58f0-4403-832d-0bbecc0de071.mptc7pt2fo.png",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\ad4c14dd-58f0-4403-832d-0bbecc0de071.png",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\ad4c14dd-58f0-4403-832d-0bbecc0de071.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1736,7 +1736,7 @@
     },
     {
       "Route": "images/ad4c14dd-58f0-4403-832d-0bbecc0de071.png",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\ad4c14dd-58f0-4403-832d-0bbecc0de071.png",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\ad4c14dd-58f0-4403-832d-0bbecc0de071.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1773,7 +1773,7 @@
     },
     {
       "Route": "images/b026be9d-19e2-4cb6-b560-b56a9fbea978.0klq7vjdue.jpg",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\b026be9d-19e2-4cb6-b560-b56a9fbea978.jpg",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\b026be9d-19e2-4cb6-b560-b56a9fbea978.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1818,7 +1818,7 @@
     },
     {
       "Route": "images/b026be9d-19e2-4cb6-b560-b56a9fbea978.jpg",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\b026be9d-19e2-4cb6-b560-b56a9fbea978.jpg",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\b026be9d-19e2-4cb6-b560-b56a9fbea978.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1855,7 +1855,7 @@
     },
     {
       "Route": "images/b5669848-a05f-4d4d-9696-ff71ca6c1ef6.mptc7pt2fo.png",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\b5669848-a05f-4d4d-9696-ff71ca6c1ef6.png",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\b5669848-a05f-4d4d-9696-ff71ca6c1ef6.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1900,7 +1900,7 @@
     },
     {
       "Route": "images/b5669848-a05f-4d4d-9696-ff71ca6c1ef6.png",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\b5669848-a05f-4d4d-9696-ff71ca6c1ef6.png",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\b5669848-a05f-4d4d-9696-ff71ca6c1ef6.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1937,7 +1937,7 @@
     },
     {
       "Route": "images/cec67f3f-117e-4f1a-85d9-ec83f9b54924.jpg",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\cec67f3f-117e-4f1a-85d9-ec83f9b54924.jpg",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\cec67f3f-117e-4f1a-85d9-ec83f9b54924.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1974,7 +1974,7 @@
     },
     {
       "Route": "images/cec67f3f-117e-4f1a-85d9-ec83f9b54924.tbccp54ff1.jpg",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\cec67f3f-117e-4f1a-85d9-ec83f9b54924.jpg",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\cec67f3f-117e-4f1a-85d9-ec83f9b54924.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2019,7 +2019,7 @@
     },
     {
       "Route": "images/d9133804-5603-418e-8b51-cb4d2e1f1678.mptc7pt2fo.png",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\d9133804-5603-418e-8b51-cb4d2e1f1678.png",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\d9133804-5603-418e-8b51-cb4d2e1f1678.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2064,7 +2064,7 @@
     },
     {
       "Route": "images/d9133804-5603-418e-8b51-cb4d2e1f1678.png",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\d9133804-5603-418e-8b51-cb4d2e1f1678.png",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\d9133804-5603-418e-8b51-cb4d2e1f1678.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2101,7 +2101,7 @@
     },
     {
       "Route": "images/eecdda48-cffb-4a50-b320-30d4abfd1ae1.mptc7pt2fo.png",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\eecdda48-cffb-4a50-b320-30d4abfd1ae1.png",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\eecdda48-cffb-4a50-b320-30d4abfd1ae1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2146,7 +2146,7 @@
     },
     {
       "Route": "images/eecdda48-cffb-4a50-b320-30d4abfd1ae1.png",
-      "AssetFile": "c:\\Users\\local user\\Downloads\\DotnetGroupCWS2\\DotnetGroupCWS2\\Backend\\wwwroot\\images\\eecdda48-cffb-4a50-b320-30d4abfd1ae1.png",
+      "AssetFile": "C:\\Users\\local user\\Downloads\\DotnetGroupProject\\DotnetGroupProject\\Backend\\wwwroot\\images\\eecdda48-cffb-4a50-b320-30d4abfd1ae1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {

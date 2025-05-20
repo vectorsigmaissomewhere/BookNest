@@ -1,5 +1,3 @@
-
-
 import React, { useState, useEffect } from 'react';
 import { Search, LogOut } from "lucide-react";
 import { useNavigate } from 'react-router-dom';
