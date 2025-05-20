@@ -19,7 +19,7 @@ const Header = ({ mobileMenuOpen, setMobileMenuOpen }) => {
           <div className="flex items-center justify-between">
             <div className="flex items-center justify-between w-full lg:w-auto">
               <Link to="/" className="text-2xl font-bold text-blue-900">
-                BooksMandala
+                BookNest
               </Link>
               <button
                 className="lg:hidden"
@@ -278,7 +278,7 @@ export default function LandingPage() {
       {/* Hero Section */}
       <div className="bg-gradient-to-r from-blue-800 to-blue-600 text-white py-16">
         <div className="container mx-auto px-4 text-center">
-          <h1 className="text-4xl font-bold mb-4">Welcome to BooksMandala</h1>
+          <h1 className="text-4xl font-bold mb-4">Welcome to BookNest</h1>
           <p className="text-lg mb-6">Explore a vast collection of books and find your next read.</p>
           <Link
             to="/register"
